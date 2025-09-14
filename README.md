@@ -1,4 +1,11 @@
-## Hi there 👋
+### Hi there 👋
+
+[![AtCoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fkuroinusan)](https://atcoder.jp/users/kuroinusan)
+[![Twitter](https://img.shields.io/twitter/follow/penguin8331?style=social)](https://twitter.com/N0deMain)
+[![GitHub](https://img.shields.io/github/followers/penguin8331.svg?style=social&label=Follow)](https://github.com/penguin8331?tab=followers)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pochi1111&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pochi1111&theme=light&layout=compact)
 
 <!--
 **pochi1111/pochi1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
