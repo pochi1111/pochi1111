@@ -2,7 +2,7 @@
 
 [![AtCoder](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fkuroinusan)](https://atcoder.jp/users/kuroinusan)
 [![Twitter](https://img.shields.io/twitter/follow/N0deMain?style=social)](https://twitter.com/N0deMain)
-[![GitHub](https://img.shields.io/github/followers/penguin8331.svg?style=social&label=Follow)](https://github.com/penguin8331?tab=followers)  
+[![GitHub](https://img.shields.io/github/followers/pochi1111.svg?style=social&label=Follow)](https://github.com/pochi1111)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pochi1111&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pochi1111&theme=light&layout=compact)
